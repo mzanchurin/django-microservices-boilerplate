@@ -1,7 +1,3 @@
-# django-microservices-boilerplate
-Production-ready Django microservices boilerplate with API Gateway, Auth, User &amp; Notification services, Celery workers, Redis and Docker.
-
-
 # Django Microservices Boilerplate
 
 Production-ready boilerplate for building microservices with Django and Django REST Framework.  
